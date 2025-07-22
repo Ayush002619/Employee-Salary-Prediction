@@ -5,8 +5,8 @@ This project focuses on predicting employee salaries in a company or corporate e
 - Analyze important factors affecting employee salaries.
 - Predict salary ranges for employees using machine learning models.
 ## 🗂️ Dataset
-.**Source**: Edunet Foundation
-.**Feature Included**:
+- **Source**: Edunet Foundation
+- **Feature Included**:
 - age	
 - workclass
 - fnlwgt
