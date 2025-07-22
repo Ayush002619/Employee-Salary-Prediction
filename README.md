@@ -7,18 +7,19 @@ This project focuses on predicting employee salaries in a company or corporate e
 ## 🗂️ Dataset
 - **Source**: Edunet Foundation
 - **Feature Included**:
-- age	
-- workclass
-- fnlwgt
-- education
-- educational-num
-- marital-status
-- occupation
-- relationship
-- race
-- gender
-- capital-gain
-- capital-loss
-- hours-per-week
-- native-country
-- income
+- The dataset includes the following columns:
+  - age	
+  - workclass
+  - fnlwgt
+  - education
+  - educational-num
+  - marital-status
+  - occupation
+  - relationship
+  - race
+  - gender
+  - capital-gain
+  - capital-loss
+  - hours-per-week
+  - native-country
+  - income
