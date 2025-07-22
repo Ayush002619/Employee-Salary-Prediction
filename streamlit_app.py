@@ -1,7 +1,8 @@
 ##writefile app.py
 import streamlit as st
 import pandas as pd
-from sklearn.externals import joblib
+pip install joblib
+import joblib
 
 # Load the trained model
 model = joblib.load("best_model.pkl")
