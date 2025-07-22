@@ -4,3 +4,19 @@ This project focuses on predicting employee salaries in a company or corporate e
 ## 🎯 Objectives
 - Analyze important factors affecting employee salaries.
 - Predict salary ranges for employees using machine learning models.
+## 🗂️ Dataset
+- age	
+- workclass
+- fnlwgt
+- education
+- educational-num
+- marital-status
+- occupation
+- relationship
+- race
+- gender
+- capital-gain
+- capital-loss
+- hours-per-week
+- native-country
+- income
