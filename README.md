@@ -22,3 +22,7 @@ This project focuses on predicting employee salaries in a company or corporate e
   - hours-per-week
   - native-country
   - income
+  ## 🛠️ Technologies Used
+   - Python
+   - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+   - Google Colab or Jupyter Notebook
