@@ -32,3 +32,10 @@ This project focuses on predicting employee salaries in a company or corporate e
   - KNeighborsClassifier
   - SVM
   - GradientBoosting
+    ## Repository Structure
+
+```plaintext
+.
+├── Data/
+│   ├── raw_dataset.csv
+│   └── processed_dataset.csv
