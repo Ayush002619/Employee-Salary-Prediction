@@ -6,7 +6,6 @@ This project focuses on predicting employee salaries in a company or corporate e
 - Predict salary ranges for employees using machine learning models.
 ## 🗂️ Dataset
 - **Source**: Edunet Foundation
-- **Feature Included**:
 - The dataset includes the following columns:
   - age	
   - workclass
