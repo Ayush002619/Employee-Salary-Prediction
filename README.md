@@ -26,13 +26,14 @@ This project focuses on predicting employee salaries in a company or corporate e
    - Python
    - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
    - Google Colab or Jupyter Notebook
-## 🧮 Models and Evaluation
+## ⚙️ Models and Evaluation
   - LogisticRegression
   - RandomForestClassifier
   - KNeighborsClassifier
   - SVM
   - GradientBoosting
-    ## Repository Structure
+
+     ## Repository Structure
 
 ```plaintext
 .
