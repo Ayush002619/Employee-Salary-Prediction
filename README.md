@@ -32,14 +32,13 @@ This project focuses on predicting employee salaries in a company or corporate e
   - KNeighborsClassifier
   - SVM
   - GradientBoosting
-## 📊 Model Accuracy Comparison
 ## 📊 Model Results
 
 We trained and evaluated five different machine learning models to predict employee salaries. Each model was tested using accuracy as the performance metric.
 
 ### ✅ Comparison of Model Performance:
 
-| 🧠 Model                        | 🎯 Accuracy Score |
+| Model                        | Accuracy Score |
 |-------------------------------|-------------------|
 | Logistic Regression           | **0.82**          |
 | Random Forest                 | **0.86**          |
