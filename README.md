@@ -33,8 +33,18 @@ This project focuses on predicting employee salaries in a company or corporate e
   - SVM
   - GradientBoosting
 ## 📊 Model Accuracy Comparison
+## 📊 Model Results
 
-The following bar chart compares accuracy scores of different models:
+We trained and evaluated five different machine learning models to predict employee salaries. Each model was tested using accuracy as the performance metric.
 
-![Model Comparison](Model Comparision result.png)
+### ✅ Comparison of Model Performance:
+
+| 🧠 Model                        | 🎯 Accuracy Score |
+|-------------------------------|-------------------|
+| Logistic Regression           | **0.82**          |
+| Random Forest                 | **0.86**          |
+| K-Nearest Neighbors (KNN)     | **0.82**          |
+| Support Vector Machine (SVM)  | **0.85**          |
+| Gradient Boosting             | **0.87**          |
+
 
