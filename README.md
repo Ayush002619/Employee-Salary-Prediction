@@ -36,5 +36,5 @@ This project focuses on predicting employee salaries in a company or corporate e
 
 The following bar chart compares accuracy scores of different models:
 
-![Model Comparison](images/)
+![Model Comparison](Model Comparision result.png)
 
