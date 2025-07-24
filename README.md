@@ -1,6 +1,6 @@
 # Employee Salary Prediction using Machine Learning
 ### 🔗 Deployed App:
-[Click here to view the live app]((https://c7f4b01f5487.ngrok-free.app/))
+[Click here to view the live app](https://c7f4b01f5487.ngrok-free.app/)
 
 ## 📌 Project Overview
 This project focuses on predicting employee salaries in a company or corporate environment using machine learning algorithms. The objective is to assist Managers and Human Resources (HR) professionals in understanding the factors that influence employee salaries and predicting expected salaries for employees based on key attributes
