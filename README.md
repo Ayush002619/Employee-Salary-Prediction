@@ -1,5 +1,5 @@
 # Employee Salary Prediction using Machine Learning
-### 🔗 Deployed App:
+### Deployed App:
 ![Employee Salary Predictor](Image/Deploye_Employee_salary_Predictor.png)
 
 
