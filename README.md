@@ -1,6 +1,5 @@
 # Employee Salary Prediction using Machine Learning
 ### 🔗 Deployed App:
-[Click here to view the live app](https://e0fe1a39d7db.ngrok-free.app/)
 ![Employee Salary Predictor](Image/Deploye_Employee_salary_Predictor.png)
 
 
